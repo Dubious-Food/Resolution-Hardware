@@ -1,6 +1,6 @@
 # Led RC Circuit Simulation
 ## Description 
-I made a simulation of an RC circuit in Falstad for week one of [Resoluton-Hardware](https://resolution.hackclub.com)
+I spent 2 hours making a simulation of an RC circuit in Falstad for week one of [Resoluton-Hardware](https://resolution.hackclub.com)
 The circuit leds turn on at the same time and fade outward.
 ## How it works
 The circuit has a push switch, a 7 voltage power source, and individual leds, each of which having its own resistor and capacitor.
