@@ -5,6 +5,8 @@ The circuit leds turn on at the same time and fade outward.
 ## How it works
 The circuit has a push switch, a 7 voltage power source, and individual leds, each of which having its own resistor and capacitor.
 I created the visual effect by changing values, which were provided by an [RC Time Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-time-constant), of capacitors and resistors. 
-[Video of Circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/WK1_Screencast_20260314_181026.gif)
 
 [Demo Link](https://is.gd/kKZOcm)
+
+
+![Video of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/WK1_Screencast_20260314_181026.gif)
