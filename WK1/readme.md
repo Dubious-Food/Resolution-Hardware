@@ -11,4 +11,4 @@ I created the visual effect by changing values, which were provided by an [RC Ti
 
 ![Video of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/WK1_Screencast_20260314_181026.gif)
 
-![Photo of circuit]()
+![Photo of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/circuit-20260314-1804.png)
