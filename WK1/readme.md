@@ -7,6 +7,6 @@ The circuit has a push switch, a 7 voltage power source, and individual leds, ea
 I created the visual effect by changing values, which were provided by an [RC Time Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-time-constant), of capacitors and resistors. Demo: https://is.gd/EYDeYy
 
 
-![Video of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/WK1_Screencast_20260314_181026.gif)
+![Video of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/Screencast_20260316_195158.gif)
 
 ![Photo of circuit](https://github.com/Dubious-Food/Resolution-Hardware/blob/main/WK1/circuit-20260316-1942.png)
